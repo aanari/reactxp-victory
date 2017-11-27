@@ -58,7 +58,7 @@ typings/
 .env
 
 # Build artifacts
-**/dist
+# **/dist
 
 # Miscellaneous user files
 *.user

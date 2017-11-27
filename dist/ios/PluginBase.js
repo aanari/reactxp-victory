@@ -1,0 +1,15 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+// import { VictoryTheme } from "victory-core";
+var victory_native_1 = require("victory-native");
+exports.VictoryAxis = victory_native_1.VictoryAxis;
+exports.VictoryChart = victory_native_1.VictoryChart;
+exports.VictoryGroup = victory_native_1.VictoryGroup;
+exports.VictoryStack = victory_native_1.VictoryStack;
+exports.VictoryBar = victory_native_1.VictoryBar;
+exports.VictoryLine = victory_native_1.VictoryLine;
+exports.VictoryArea = victory_native_1.VictoryArea;
+exports.VictoryScatter = victory_native_1.VictoryScatter;
+exports.VictoryPie = victory_native_1.VictoryPie;
+exports.VictoryLabel = victory_native_1.VictoryLabel;
+exports.VictoryLegend = victory_native_1.VictoryLegend;
