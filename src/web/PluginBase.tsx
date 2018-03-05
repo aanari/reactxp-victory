@@ -1,6 +1,4 @@
 import {
-  Area, Axis, Bar, Border, Box, Candle, ClipPath, Curve, ErrorBar, Grid, Point, Slice, Voronoi,
-  Flyout, Circle, Rect, Line, Path, TSpan, Text,
   VictoryAnimation,
   VictoryArea,
   VictoryAxis,
@@ -36,8 +34,6 @@ import {
 } from "victory";
 
 export {
-  Area, Axis, Bar, Border, Box, Candle, ClipPath, Curve, ErrorBar, Grid, Point, Slice, Voronoi,
-  Flyout, Circle, Rect, Line, Path, TSpan, Text,
   VictoryAnimation,
   VictoryArea,
   VictoryAxis,
